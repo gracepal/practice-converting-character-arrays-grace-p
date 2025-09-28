@@ -22,4 +22,4 @@ Practice working with character arrays.
 
 ### Example Program Output Reference
 
-WIP
+<img width="900" height="403" alt="launchcode_converting-character-arrays" src="https://github.com/user-attachments/assets/91d5c11a-b32c-4da5-80d5-c5c93c018eb8" />
